@@ -1,7 +1,7 @@
 # 📝 Test Plan for Login Page Functionality
 
 ## 📌 Project Name:  
-**Login Page for Website**
+**Login Page Test for Website**
 
 ## 🏷️ Version:  
 **1.0**
